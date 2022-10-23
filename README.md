@@ -9,6 +9,7 @@
 - 🎮 I make modpacks for Minecraft with my awesome team [@EnigmaticaModpacks](https://github.com/EnigmaticaModpacks)
 - 🔭 I’m currently working on automated deployments through Azure DevOps, and data migrations, to name a few things 😄
 - 🌱 I’m currently learning the [EventStore gRPC client for dotnet](https://github.com/EventStore/EventStore-Client-Dotnet)
+- 🖺  I have a [blog](https://pilgaard-blog.azurewebsites.net/)!
 
 ---
 
